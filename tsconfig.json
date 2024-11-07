@@ -3,13 +3,12 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@components/*":[
-        "srh/components/*"
+      "@components/*": [
+        "src/components/*"
       ],
-      "@layouts/*":[
-        "srh/layouts/*"
-      ],
+      "@layouts/*": [
+        "src/layouts/*"
+      ]
     }
   }
-
 }
