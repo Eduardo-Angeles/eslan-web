@@ -2,6 +2,7 @@
 
 import '@fontsource-variable/onest';
 import Header from '../components/Header.astro';
+import { ViewTransitions } from 'astro:transitions';
 
 interface Props {
 	description: string;
@@ -22,6 +23,7 @@ const { description, title } = Astro.props;
 	</head>
 	<body>
 		<Header />
+		<ViewTransitions />
 		<slot />
 	</body>
 </html>

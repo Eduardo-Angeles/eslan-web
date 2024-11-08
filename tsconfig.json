@@ -8,7 +8,12 @@
       ],
       "@layouts/*": [
         "src/layouts/*"
+      ],
+      "@hooks/*": [
+        "src/hooks/*"
       ]
-    }
+    },
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact"
   }
 }
