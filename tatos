@@ -1,0 +1,71 @@
+[33mcommit ae10655dae173bcc3a88e5757a5910bb35071e2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Eduardo-Angeles <eduardo.jes.angeles.hdz@gmail.com>
+Date:   Fri Nov 8 11:51:59 2024 -0600
+
+    acabado el contador
+
+[33mcommit b7fe2aac7f78b539e304b1e1363cc4a7b9b90b2d[m
+Author: Eduardo-Angeles <eduardo.jes.angeles.hdz@gmail.com>
+Date:   Fri Nov 8 08:52:11 2024 -0600
+
+    añadido preact, contador configurado
+
+[33mcommit 4dc9eb7b6a79e2bb56bbfd88eb9b14360ef4a0f3[m
+Author: Eduardo-Angeles <eduardo.jes.angeles.hdz@gmail.com>
+Date:   Thu Nov 7 16:02:36 2024 -0600
+
+    Archivo empezado a añadir
+
+[33mcommit 1df7ab88770e565ac65e6881b532adb454cd9b24[m
+Author: Eduardo-Angeles <eduardo.jes.angeles.hdz@gmail.com>
+Date:   Thu Nov 7 15:00:59 2024 -0600
+
+    header actualizado, video actualizado
+
+[33mcommit 188f53f9a2917ef4f746446ac7d35d932f8e2d27[m
+Author: Eduardo-Angeles <eduardo.jes.angeles.hdz@gmail.com>
+Date:   Thu Oct 24 16:11:48 2024 -0600
+
+    header prelisto
+
+[33mcommit 677e54e8c55cecaf104954bc2dc5940298b3a9b8[m
+Author: Eduardo-Angeles <eduardo.jes.angeles.hdz@gmail.com>
+Date:   Thu Oct 24 12:20:34 2024 -0600
+
+    primer header introducido
+
+[33mcommit 482a64cb8864b4bf11b7e6f793ffd7af77ed3ddf[m
+Author: Eduardo-Angeles <eduardo.jes.angeles.hdz@gmail.com>
+Date:   Thu Oct 24 11:48:30 2024 -0600
+
+    imagenes del bento terminadas y texto
+
+[33mcommit dc28f54b2f4d8ee6dd2299edab5e8296c20b41cb[m
+Author: Eduardo-Angeles <eduardo.jes.angeles.hdz@gmail.com>
+Date:   Thu Oct 24 10:30:09 2024 -0600
+
+    bento primera parte acabado
+
+[33mcommit 23ec1710820caa584cbdca365c465bc95a00818a[m
+Author: Eduardo-Angeles <eduardo.jes.angeles.hdz@gmail.com>
+Date:   Wed Oct 23 11:44:41 2024 -0600
+
+    intro empezada, agregue multimedia
+
+[33mcommit b7f941ce5b4c37fbda16960ba3961f011ceb0c2a[m
+Author: Eduardo-Angeles <eduardo.jes.angeles.hdz@gmail.com>
+Date:   Tue Oct 22 15:45:38 2024 -0600
+
+    componete video realizado
+
+[33mcommit a83966d02470cf08256599373dbeb351afe31ec6[m
+Author: Eduardo-Angeles <eduardo.jes.angeles.hdz@gmail.com>
+Date:   Tue Oct 22 15:02:01 2024 -0600
+
+    Primer Commit con la base
+
+[33mcommit 04128affd3cffa7aba0f295d473f2cb5ec204130[m
+Author: houston[bot] <astrobot-houston@users.noreply.github.com>
+Date:   Tue Oct 22 14:23:55 2024 -0600
+
+    Initial commit from Astro
